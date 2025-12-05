@@ -2,7 +2,7 @@
 
 **Disciplina:** Probabilidade e Estatística – Engenharias  
 **Professor:** Guilbert de Arruda Souza  
-**Entrega:** 08/12
+**Entrega:** 04/12
 
 ---
 
